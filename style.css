@@ -23,11 +23,13 @@ h1{
 
 .bilder{
     border: 3px solid black;
-    width: 150px;
+    width: 135px;
     border-radius: 5px;
 
 }
-
+.länk{
+    padding: 5px;
+}
 .main{
     border: 3px solid #D6001C;
     border-radius: 7px;
@@ -41,16 +43,14 @@ h1{
     flex-direction: column;
     border: 3px solid #D6001C;
     border-radius: 7px;
-    width: 200px;
+    width: 230px;
     align-items: center;
     margin: 5px;
 
 
+
 }
 
-.länkar{
-    padding: 5px;
-}
 
 .mitten{
     border: 3px solid #D6001C;
