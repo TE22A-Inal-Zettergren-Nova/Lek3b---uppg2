@@ -33,7 +33,7 @@ h1{
     border-radius: 7px;
     margin-top: 20px;
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
 }
 
 .vänster{
@@ -41,14 +41,39 @@ h1{
     flex-direction: column;
     border: 3px solid #D6001C;
     border-radius: 7px;
-    width: 30%;
+    width: 200px;
     align-items: center;
     margin: 5px;
-    justify-content: space-between;
+
 
 }
 
+.länkar{
+    padding: 5px;
+}
+
+.mitten{
+    border: 3px solid #D6001C;
+    margin: 5px;
+    border-radius: 7px;
+}
+
 .höger{
-    
+    border: 3px solid #D6001C;
+    border-radius: 7px;
+    margin: 5px;
+    width: 120px;
+}
+
+.julgran{
+    width: 100px ;
+    height: 300px;
+}
+
+.botten{
+    border: 3px solid #D6001C;
+    border-radius: 7px;
+    margin: 3px;
+    text-align: center;
 }
 
