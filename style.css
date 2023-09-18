@@ -1,6 +1,27 @@
-#bakgrund{
-    border: 5px solid #D6001C;
+.bakgrund{
+    border: 3px solid #D6001C;
     border-radius: 7px;
-    height: 130px;
-    background-image: ;
+    background-image: url("./img/snow_winter_trees.jpg");
+    padding: 1%;
 }
+
+h1{
+
+}
+.top{
+    border: 3px solid #D6001C;
+    border-radius: 7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 1%;
+    
+}
+
+.bilder{
+    border: 3px solid black;
+    width: 10%;
+    border-radius: 5px;
+
+}
+
